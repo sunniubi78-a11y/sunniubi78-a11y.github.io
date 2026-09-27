@@ -4,9 +4,9 @@
   "files": {
     ".gitignore": "605a72d00380f36abefdfbd87bbd82f66a45ee7ec1ffb6634873ee1f8adae540",
     "_config.landscape.yml": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-    "_config.yml": "635cc889e5a3134707f771b6c78876c2bb7e4ff3e7ab4319d83acc33a7d1e794",
-    "package-lock.json": "31b7eab7ffb1d7c80b46091f540114913e5d74feaabb4eefc771893be03c3906",
-    "package.json": "30800fda2b14db4558623e58964162537a1e1d918113214c22e1348c0c8e967f",
+    "_config.yml": "4cae01e2cbf82930954d3b84c4ec20abb22284165af1f02f37715cce95808a25",
+    "package-lock.json": "7c3bd96485ec45897b7fe322212ead2232517444378d4619d93cd13306056033",
+    "package.json": "9d9f37b1119c7f0e9a33bcd5926e0ef4a0fd1a6820b125a8ac218fcd2c34d6aa",
     "scaffolds/draft.md": "242d020cfcfdf47baa73fee77d4ce7d73d2973d98aadc4376e0d98f1d518a01f",
     "scaffolds/page.md": "14b669b148906d4cfaf2f03759a391e732615dc69ebf9151fb0b06114c6861af",
     "scaffolds/post.md": "bda7586241bcf72d0078a36de714913bbf42ace412e92f05278261da30b000fd",
@@ -17,7 +17,7 @@
     "themes/butterfly/LICENSE": "49bbe9114e49214df2ccc324cb3ac8d1d1aa1c3a0947f94c286765e86647b32e",
     "themes/butterfly/README.md": "f803238cf671aa855b20134bb94d1c9221b62209fe7830795c73e080c3a0bb7b",
     "themes/butterfly/README_CN.md": "50484ce45ff511712f72040446b6bdffbb33245be7c05efad788271f1f38c7b5",
-    "themes/butterfly/_config.yml": "fe5813bd9bf8c251776d086bb1811bc06e573cde95aa12116142e3596236d756",
+    "themes/butterfly/_config.yml": "46a6e19604d2780dfe2b597c81c5b351f9fc65f7887c03989b0934c932624871",
     "themes/butterfly/languages/default.yml": "151b21d0a30560989752804bc40b9c7564c2533553a6e751572d47bc6337cad1",
     "themes/butterfly/languages/en.yml": "bb0eff8f228cc50e85194c9409f290d525c4ac3dc89f1a1a63ae3faca4299d41",
     "themes/butterfly/languages/ja.yml": "801e39ab5708ff365611b9369380c2367f996b46cd0fa1854544bed6ce01aac6",
@@ -220,10 +220,13 @@
     "themes/butterfly/source/img/error-page.png": "e8900d4f00ac97b89b66edcb61836e4baeec3afcdc3dfcb6bcbec3b82eaa71c0",
     "themes/butterfly/source/img/friend_404.gif": "b318d5c673db6aac52aaa1b73e235d0a9d804306e0e4e29b1e27a94259c51b68",
     "themes/butterfly/source/img/w.gif": "92dc4d6c25eab6f7c8d23bfd47cea07073d5760ab3fdd40f8b4e77ffac852049",
+    "themes/butterfly/source/js/aplayer-init.js": "dd1aaba52d66f14780d9dc45a0f098505508f97f5c2c5a0329be6f83ebd79e8d",
     "themes/butterfly/source/js/main.js": "9f507558bafa4d92746e5f5d268db82062ccb9258d1c1b36b2c7f2cc628002ac",
     "themes/butterfly/source/js/search/algolia.js": "2da49f0c5cc9c88ee9c92270e93e5248f87fda289df44da7645693019c6663d8",
     "themes/butterfly/source/js/search/local-search.js": "e08cfe5967aef4ae9f23d820eab96e03d0ad7babf47fbcdd2264432180838403",
     "themes/butterfly/source/js/tw_cn.js": "6f375141b213b699017e825db41979e61035bcd2d7f8e1d188758e18f2ab5a7f",
-    "themes/butterfly/source/js/utils.js": "c4d353462d5a30b6117747ed92e686c566938070481dc82c08773278323cb724"
+    "themes/butterfly/source/js/utils.js": "c4d353462d5a30b6117747ed92e686c566938070481dc82c08773278323cb724",
+    "themes/butterfly/source/music/w.mp3": "9fa8da502eb4be592cda12b19ebaf50ad7372c7f5c675e8e49065d0eeff08539",
+    "themes/butterfly/source/music/w1.jpg": "8eec9a0067fa2840f9f7cae28aafb6477c687fb54393644ddaee65c7b836b929"
   }
 }
